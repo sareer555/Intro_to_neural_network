@@ -31,14 +31,12 @@ cd intro-to-neural-networks
 Install Dependencies 🛠️
 Make sure you have Python installed, then install the required libraries:
 bash
-Copy
-1
+
 pip install -r requirements.txt
 Run the Notebooks 📓
 Open the Jupyter Notebook tutorials:
 bash
-Copy
-1
+
 jupyter notebook
 Navigate to the notebooks/ folder and start exploring!
 Experiment and Learn 🧪
@@ -58,7 +56,7 @@ PyTorch 🔥
 NumPy 🧮
 Jupyter Notebook 📓
 📜 License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you wish! 📄
+This project is licensed under the The Unlicense. Feel free to use, modify, and distribute the code as you wish! 📄
 For more details, check the LICENSE file.
 
 🌟 Let’s Connect!
